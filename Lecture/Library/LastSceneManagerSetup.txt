@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/second class/scenes/second scene.unity
+- path: Assets/4 cloaa/scene/New Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
