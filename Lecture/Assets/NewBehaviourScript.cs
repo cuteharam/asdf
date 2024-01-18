@@ -10,8 +10,12 @@ public class NewBehaviourScript : MonoBehaviour
     
     public float speed;
 
+    public NewBehaviourScript()
+    {
+    }
+
     // 자료형이란?
     // 데이터를 저장하기 위해 데이터의 형태를
     // 정해주는 것입니다.
-    
+
 }
